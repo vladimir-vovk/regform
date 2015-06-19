@@ -1,2 +1,3 @@
 Simple registration form with angular.
-Check it here: vladimir.vovk.in/regform
+
+Check it here: http://vladimir.vovk.in/regform
